@@ -2,11 +2,12 @@
 
 Aplicativo de uma calculadora de IMC criado para disciplina de Programação Mobile.
 
-Tutorial de criação deste app: http://bit.ly/2Zry7Uh
-
 <p align="center">
-    <img src="https://miro.medium.com/max/1440/1*VzcayMW3lUkbyc9DRSHcGA.png" weight="800"/>
+    <img src="https://github.com/jrflavio/calculadora-imc-aulas-flutter/blob/master/images/screenshot_1.png" height="400"/>
+	<img src="https://github.com/jrflavio/calculadora-imc-aulas-flutter/blob/master/images/screenshot_2.png" height="400"/>
+	<img src="https://github.com/jrflavio/calculadora-imc-aulas-flutter/blob/master/images/screenshot_3.png" height="400"/>
 </p>
+
 
 ## Como clonar e importar
 -   Faça um fork do projeto
@@ -16,12 +17,12 @@ Tutorial de criação deste app: http://bit.ly/2Zry7Uh
 
 ## Desafio para aula
 
--   Adicionar botões (Toggle ou Radio button) para escolha de gênero ([masculino](https://indicedemassacorporal.com/movel/calculo-imc-masculino.html) / [feminino](https://indicedemassacorporal.com/movel/calculo-imc-feminino.html));
--   Corrigir o calculo de acordo com o gênero (masculino e feminino);
--   Criar um classe Pessoa com os atributos (peso, altura e gênero), criar métodos para calcular IMC e classificar;
--   Refatorar o código do aplicativo para utilizar a classe Pessoa;
--   Aplicar uma escala de cores para o resultado da classificação do IMC;
--   Aumentar o texto do resultado do IMC (número) e também colocar em negrito.
+-  [X] Adicionar botões (Toggle ou Radio button) para escolha de gênero;
+-  [X] Corrigir o calculo de acordo com o gênero (masculino e feminino);
+-  [X] Criar um classe Pessoa com os atributos (peso, altura e gênero), criar métodos para calcular IMC e classificar;
+-  [X] Refatorar o código do aplicativo para utilizar a classe Pessoa;
+-  [X] Aplicar uma escala de cores para o resultado da classificação do IMC;
+-  [X] Aumentar o texto do resultado do IMC (número) e também colocar em negrito.
 
 ## Licença
 
